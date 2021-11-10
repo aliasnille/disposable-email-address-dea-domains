@@ -6,4 +6,4 @@ Prefect source if you want to avoid fake registrations and more.
 
 ***The list is updated regularly.***
 
-Please report more disposable email addresses, just write a comment ([disposable-email-address-dea-domains.csv](disposable-email-address-dea-domains.csv)). Also if any email address should be removed from the list.
+Please report more disposable email address domains, but also if any domain should be removed from the list.
